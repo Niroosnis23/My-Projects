@@ -1,0 +1,36 @@
+body
+{
+    background-image: url(/images/menu_frame.jpg)  ;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+.container
+{
+    width: 60vw;
+    margin-left: 25%;
+    display: flex;
+    
+
+}
+.firstgroup
+{
+    
+}
+/* .secendgroup
+{
+    width: 50%;
+} */
+.group
+{
+    color: aliceblue;
+}
+.header
+{
+    color: aqua;
+    text-align: center;
+}
+div
+{
+    border: 1px solid aliceblue;
+}
